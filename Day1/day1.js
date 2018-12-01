@@ -9,7 +9,6 @@ const part1 = () => {
 }
 
 const part2 = () => {
-
     const inputData = getInput();
     let history = [0];
     let runningTotal = 0;
